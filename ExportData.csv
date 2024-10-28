@@ -1,0 +1,11 @@
+SO Number,Customer Name,Order Date,Order Status,Expected Ship Date,Delivery Method
+SO-10157,Patin McIlmurray,06/12/2021,Delivery Outstanding,08/05/2021,Local
+SO-10081,Mayne Seyffert,04/10/2021,Confirmed,08/09/2021,Flight
+SO-10054,Israel Atwool,08/12/2020,Draft,08/08/2021,Road
+SO-10047,Kassie Duffill,12/25/2020,Pending,08/05/2021,Flight
+SO-10184,Kristine Stanyan,09/11/2020,Delivery Outstanding,08/11/2021,Road
+SO-10185,Tyson Thatcher,01/23/2021,Confirmed,08/05/2021,Road
+SO-10079,Agata Woolliams,05/16/2021,Invoice Sent,08/06/2021,Road
+SO-10020,Gizela Fazackerley,08/11/2020,Draft,08/06/2021,Local
+SO-10116,Lynnea Slatford,11/10/2020,Delivery Outstanding,08/10/2021,Road
+SO-10085,Lesya Matteuzzi,04/29/2021,Pending,08/10/2021,Flight
