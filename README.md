@@ -8,3 +8,6 @@ Note
 2.After you logged into the website, run flowchart.xaml using UiPath
 
 3.You may need to configure the "Submit CSV" part, if your download location is not default
+
+
+Video : https://youtu.be/4KaYXS4Mks4
